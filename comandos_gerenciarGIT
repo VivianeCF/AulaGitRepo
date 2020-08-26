@@ -1,0 +1,3 @@
+Comandos para gerenciar arquivos no GIT
+git diff HEAD~1
+git status
